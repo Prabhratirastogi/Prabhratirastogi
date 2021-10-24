@@ -21,8 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/r_prabhrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_prabhrati" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/prabhrati-rastogi-311893191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prabhrati-rastogi-311893191" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prabhrati rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prabhrati rastogi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prabhrati17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prabhrati17" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@prabhrati17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prabhrati17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
