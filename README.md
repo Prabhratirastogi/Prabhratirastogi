@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhrati Rastogi</h1>
-<h4 align="center">I am a passionate Python Developer🌟 with the decent knowledge of django framework 👀 & Machine Learning 🌱, I'm a coder who loves to solve analytical problems, a well known person of C++, data structure and algorithm.</h4>
+<h4 align="center">I am a passionate Python Developer🌟 with the decent knowledge of django framework 👀 & Machine Learning 🌱, I'm a coder who loves to solve analytical problems, I know about C++, data structure and algorithm.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhratirastogi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhratirastogi" /> </p>
 
